@@ -1,9 +1,9 @@
 
 # Turntable Switch Guard
 
-An OpenSCAD-designed protective guard for the [turntable model] switch.
+An OpenSCAD-designed protective guard for the Goldring Lenco GL75 on/off switch.
 
-This project provides the OpenSCAD source files and STL files for 3D printing a replacement or protective component for the original turntable switch.
+This project provides the OpenSCAD source files and STL files for 3D printing a clip around the original turntable switch so that it can be used without damaging the stylus. 
 
 ## Features
 
@@ -14,9 +14,9 @@ This project provides the OpenSCAD source files and STL files for 3D printing a 
 
 ## Preview
 
-![Turntable switch guard](images/in_scad.png)
+![Turntable switch clip](images/in_scad.png)
 
-*The guard installed on the turntable.*
+*The clip in openSCAD, rendered upside down*
 
 ## Files
 
