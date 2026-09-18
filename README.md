@@ -14,7 +14,7 @@ This project provides the OpenSCAD source files and STL files for 3D printing a 
 
 ## Preview
 
-![Turntable switch guard](images/switch_guard.jpg)
+![Turntable switch guard](images/in_scad.png)
 
 *The guard installed on the turntable.*
 
@@ -29,7 +29,7 @@ This project provides the OpenSCAD source files and STL files for 3D printing a 
 ├── stl/
 │   └── lencoswitchclip.stl
 └── images/
-    └── switch_guard.jpg
+    └── in_scad.png
 ```
 
 - `src/` — OpenSCAD source files.
@@ -55,7 +55,7 @@ These settings are a starting point and may need adjustment for your printer and
 
 ## Customisation
 
-The design is parametric. Open `src/switch_guard.scad` in [OpenSCAD](https://openscad.org/) and adjust the relevant dimensions.
+The design is parametric. Open `src/lencoswitchclip.scad` in [OpenSCAD](https://openscad.org/) and adjust the relevant dimensions.
 
 The principal dimensions of the original switch are:
 
